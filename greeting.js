@@ -1,3 +1,3 @@
-const greeting = (name) => {
-        return (name) ? `Hello, ${name}!` : "Hello!"
+const greetUser = (userName) => {
+        return (userName) ? `Hello, ${userName}!` : "Hello!"
  }
